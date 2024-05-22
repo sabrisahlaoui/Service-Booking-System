@@ -38,6 +38,7 @@ Service Booking System is a full stack application that allows companies to post
   - **UI Library:** Ng Zorro
 - **Backend:** Spring Boot 3.0.6
 - **Database:** PostgreSQL
+- **Authentication:** JWT (JSON Web Tokens)
 
 ## Installation
 
