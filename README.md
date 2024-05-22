@@ -127,6 +127,3 @@ If you have any questions or suggestions, feel free to contact me:
 
 - **GitHub:** [sabrisahlaoui](https://github.com/sabrisahlaoui)
 
-```
-
-Feel free to modify and expand on this template to suit your project's needs.
