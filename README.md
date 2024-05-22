@@ -123,8 +123,10 @@ Contributions are welcome! Please follow these steps:
 
 
 ## Contact
-
-If you have any questions or suggestions, feel free to contact me:
-
-- **GitHub:** [sabrisahlaoui](https://github.com/sabrisahlaoui)
-
+<p>
+<a href="https://www.linkedin.com/in/sabrisahlaoui/">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a> 
+<br>
+</p>
+---
